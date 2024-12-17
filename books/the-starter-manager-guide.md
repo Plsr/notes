@@ -1,4 +1,4 @@
-#[The Starter Manager Guide](https://commoncog.com/g/starter-manager/)
+# [The Starter Manager Guide](https://commoncog.com/g/starter-manager/)
 
 This is a short digital books targeted at first-time managers in a startup environment.  
 The book is about 3 hours to read and should have enough content to take 6 - 8 Months to implement.
@@ -27,3 +27,27 @@ Everything you do should be for that single purpose.
 - Second: Change the way you look a your growth
   - Your management career is an optimization problem
   - Every week, take time to reflect wether you increased or decreased the teams output this week
+
+## How to Delegate Without Micro-Management
+- Delegation is hard to learn for new managers as they usually were high-performing individual contributors
+- Because of that, it often happens that a manager gets involved in a task that they had delegated because the feel they could do it better themselves
+
+### Managerial Meddling
+- This is bad behavior:
+  - It removes autonomy from subordinates
+  - It teaches subordinates to not take initiative, making the manager the bottleneck of the team
+- Delegation can only happen in a situation where both people share a common understanding of how to accomplish the job to be done
+  - technical knowledge (how to code)
+  - institutional knowledge (acceptable standards)
+- If this shared knowledge is not present, it's the managers job to make this happen
+- **Managers need to train**
+
+### Selfishness and the Two Hats
+- The "selfish manager": You are allowed to keep some tasks to yourself
+- In startups, managers often have to wear two hats: IC and Manager
+- To prevent meddling, it is helpful to ask yourself which hat you are wearing right now
+
+### Check the output
+- Checking is not meddling, it's a managers responsibility to check the output
+  - Delegating without checking is abnegation
+- After delegating a task, you are responsible for its completion and checking is the only way to ensure that
