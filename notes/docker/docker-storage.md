@@ -1,4 +1,4 @@
-#Docker Storage
+# Docker Storage
 Link to Docs: https://docs.docker.com/engine/storage/
 
 - By default, all files created inside a container are stored on the writable container layer (which sits on top of the read-only image layer)
